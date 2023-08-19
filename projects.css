@@ -179,7 +179,7 @@ nav ul li a:hover::after{
 }
 
 .social-icons a i:hover{
-    color: var(--black)
+    color: var(--black);
 }
 
 .contact-left p a{
