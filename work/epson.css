@@ -169,6 +169,26 @@ nav ul li a:hover::after{
 
 }
 
+.about-col-2 figure{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.about-col-2 img{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.about-col-2 figcaption{
+    line-height: 1.75;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.about-col-2 figure img{
+    border-radius: 24px;
+}
+
 .about-col-2 ul a{
     text-decoration: none;
     color: var(--grey);
